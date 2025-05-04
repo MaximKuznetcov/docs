@@ -10,7 +10,7 @@
  [Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/Test_Cases_for_the_Online_Store_Application.pdf)
 
 # Отчеты о дефекте для регистрации, логина и каталога приложения "Интернет-магазин" в Qase
-[Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/Defect_Report_in_Qase_for_the_Online_Store_Application.pdf) 
+ [Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/Defect_Report_in_Qase_for_the_Online_Store_Application.pdf) 
 
 # Отчеты о дефекте для регистрации, логина и каталога приложения "Интернет-магазин" в YouTrack
-[Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/Defect_Report_in_YouTrack_for_the_Online_Store_Application.xlsx)
+ [Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/Defect_Report_in_YouTrack_for_the_Online_Store_Application.xlsx)
