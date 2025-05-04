@@ -7,3 +7,6 @@
 [Ссылка на документ] (https://app.qase.io/project/G10?author=326) 
 # Тест-кейсы для приложения "Интернет-Магазин" в формате pdf 
 [Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/G10-2025-05-03.pdf)
+# Отчеты о дефекте для регистрации, логина и каталога приложения "Интернет-магазин"
+[Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/G10-Test%2Brun%2B2025_05_04.pdf) 
+[Ссылка на документ] (https://github.com/MaximKuznetcov/docs/blob/main/Issues.xlsx)
